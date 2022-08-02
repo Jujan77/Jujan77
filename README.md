@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jujan7
 - 👀 I’m interested in Rythm Games / Soulsbourne Games / Content Creation
-- 🌱 I’m currently learning nothing???!!!
 
 <!---
 Jujan77/Jujan77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
